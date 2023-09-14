@@ -1,0 +1,9 @@
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\bin\Debug\3- Mono.dll
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\bin\Debug\3- Mono.pdb
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.csproj.AssemblyReference.cache
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.GeneratedMSBuildEditorConfig.editorconfig
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.AssemblyInfoInputs.cache
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.AssemblyInfo.cs
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.csproj.CoreCompileInputs.cache
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.dll
+T:\_CODE_\Godot-Test\3-Mono\.mono\temp\obj\Debug\3- Mono.pdb

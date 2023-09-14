@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Mono
+build_property.ProjectDir = T:\_CODE_\Godot-Test\3-Mono\
