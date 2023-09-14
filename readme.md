@@ -4,6 +4,8 @@ this demo is for Godot 3.5 mono. It allows you to use [PuerTS](https://github.co
 ## Is it the best Javascript/Typescript solution in Godot?
 No. PuerTS has potential to directly wrap to the Godot C++ code, it can provide better performance and no need to use Mono version Godot anymore. A similar project is https://github.com/Geequlim/ECMAScript, its author is also a member of PuerTS community. PuerTS can provide binding based on V8 instead of QuickJS, and provide D.ts generating. If you interested in it, please contact me.
 
+## Will this repo continue?
+You can use this repo as what PuerTS-Unity like. Due to the situation I mentioned above, I will not provide more support of this repo. If there are enough people need Godot-PuerTS. I will provide the solution I mentioned above.
 
 ------
 # Godot PuerTS demo
@@ -11,3 +13,6 @@ No. PuerTS has potential to directly wrap to the Godot C++ code, it can provide 
 
 ## 这是最牛逼的Godot Javascript/Typescript 方案吗？
 不，PuerTS其实可以直接绑定到Godot的C++层，无需经过mono。这样可以提供更高性能的绑定（更接近于PuerTS UE的方式而不是PuerTS Unity的方式），也无需强制你使用Godot Mono版本。有一个相似的项目是 https://github.com/Geequlim/ECMAScript，其作者也是PuerTS社区的重要贡献者。普洱在他项目的基础之上可以提供更高性能的基于V8的环境，以及d.ts的生成，当然这需要时间开发，如果你对其感兴趣，请联系我。
+
+## 这个项目还会迭代吗
+大部分情况下你可以模仿PuerTS-Unity的使用方式进行下去。基于上一段所描述的情况，我不打算将该项目发扬光大。如果有足够多人需要Godot-PuerTS，我会提供上一段所描述的方案。
